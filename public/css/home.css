@@ -1,0 +1,21 @@
+.home{
+    background-color: #ccbba7;
+    background-image: url('../img/Purple\ Neon\ Modern\ Gaming\ Channel\ .png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-transform:lowercase;
+    
+}
+.home h1{
+    font-size: 30px;
+    color: #452758;
+    margin-left: 820px;
+    margin-top: 200px;
+}
+.home header{
+    margin-left: 50px;
+}
+.home header nav ul li{
+    margin: 10px 0;
+    text-transform: lowercase
+}
